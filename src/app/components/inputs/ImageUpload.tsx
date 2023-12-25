@@ -60,7 +60,7 @@ const ImageUpload: React.FC<ImageUploadProps> = ({
                         Click to upload
                     </div>
                     <div className="font-semibold text-lg">
-                        Don't upload file more than 7 mb
+                        Don`&apos;`t upload file more than 7 mb
                     </div>
                     {value && (
                         <div className="absolute inset-0 w-full h-full">
