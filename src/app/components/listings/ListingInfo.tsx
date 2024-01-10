@@ -57,7 +57,7 @@ const ListingInfo: React.FC<ListingInfoProps> = ({
                     <div>
                         Hosted by {user?.name}
                     </div>
-                    <Avatar/>
+                    <Avatar src=""/>
                 </div>
                 <div
                  className="
