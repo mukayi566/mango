@@ -2,7 +2,7 @@
 
 import Container from '../Container';
 import { TbBeach, TbMountain, TbPool } from 'react-icons/tb';
-import { GiWindmill } from 'react-icons/gi';
+import { GiWindmill, GiIsland } from 'react-icons/gi';
 import { MdOutlineVilla } from 'react-icons/md';
 import CategoryBox from '../CategoryBox';
 import {useSearchParams, usePathname } from 'next/navigation';
@@ -34,6 +34,11 @@ export const categories =[
         label: 'Blue Belly',
         icon: TbPool,
         description: 'This property is about Blue belly'
+    },
+    {
+        label: 'Unicohs',
+        icon: GiIsland,
+        description: 'This property is about Unicohs'
     },
 
 ]
