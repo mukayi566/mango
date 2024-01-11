@@ -16,7 +16,7 @@ const Navbar: React.FC<NavbarProps> = ({
 }) => {
 
     return (
-        <div className="fixed w-full backdrop-blur-sm bg-white/30 z-2 shadow-sm">
+        <div className="fixed w-full backdrop-blur-md bg-white/30 z-10 shadow-sm">
             <div className="py-3.5 border-b-[1px]">
                 <Container>
                     <div className="flex flex-row items-center justify-between gap-3 md:gap-0">
