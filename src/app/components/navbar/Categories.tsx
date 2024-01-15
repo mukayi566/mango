@@ -11,7 +11,7 @@ import {useSearchParams, usePathname } from 'next/navigation';
 
 export const categories =[
     {
-        label: 'Barlstone park',
+        label: 'Barlastone park',
         icon: TbBeach,
         description: 'This property is within barlastone park'
     },
