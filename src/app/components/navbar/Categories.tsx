@@ -31,7 +31,7 @@ export const categories =[
         description: 'This property is in Zingalume'
     },
     {
-        label: 'Blue Belly',
+        label: 'Blue Bell',
         icon: TbPool,
         description: 'This property is about Blue belly'
     },
