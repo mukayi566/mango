@@ -33,7 +33,7 @@ export const categories =[
     {
         label: 'Blue Bell',
         icon: TbPool,
-        description: 'This property is about Blue belly'
+        description: 'This property is about Blue bell'
     },
     {
         label: 'Unicohs',
